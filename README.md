@@ -39,13 +39,13 @@ The dataset is provided by iNeuron.ai:
 The goal of level 1 is to perform continuous training of the model by automating the ML pipeline; this lets you achieve continuous delivery of model prediction service. To automate the process of using new data to retrain models in production, you need to introduce automated data and model validation steps to the pipeline, as well as pipeline triggers and metadata management.
 
 The following figure is a schematic representation of an automated ML pipeline for CT.
-![](/Users/patelrudra/Downloads/Consignment-Pricing-using-MLOps-DVC-main/images/ML pipeline automation.jpg)
+![](images/ml-pipeline-automation.jpg)
 
 ## MLOps Level 2: CI/CD pipeline automation
 For a rapid and reliable update of the pipelines in production, you need a robust automated CI/CD system. This automated CI/CD system lets your data scientists rapidly explore new ideas around feature engineering, model architecture, and hyperparameters. They can implement these ideas and automatically build, test, and deploy the new pipeline components to the target environment.
 
 The following diagram shows the implementation of the ML pipeline using CI/CD, which has the characteristics of the automated ML pipelines setup plus the automated CI/CD routines.
-![](/Users/patelrudra/Downloads/Consignment-Pricing-using-MLOps-DVC-main/images/cicd pipeline automation.jpg)
+![](images/cicd-pipeline-automation.jpg)
 
 ## Model information
 Experiments:
