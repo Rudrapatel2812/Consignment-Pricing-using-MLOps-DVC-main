@@ -1,9 +1,6 @@
 
 # Consignment-Pricing-Prediction-Using-MLOps-DVC
 
-<div style="text-align: center">
-  <img src="https://github.com/praj2408/Consignment-Pricing-using-MLOps-DVC/blob/main/notebook/3554469_8b80_9.jpg" alt="">
-</div>
 
 ## Project Overview
 The Consignment-Price Prediction project aims to develop a machine-learning model that can accurately predict the price of consignment items based on various features and variables. Consignment is a business model in which an individual or business agrees to sell someone else's items on their behalf, typically taking a commission on the final sale price.
@@ -42,13 +39,13 @@ The dataset is provided by iNeuron.ai:
 The goal of level 1 is to perform continuous training of the model by automating the ML pipeline; this lets you achieve continuous delivery of model prediction service. To automate the process of using new data to retrain models in production, you need to introduce automated data and model validation steps to the pipeline, as well as pipeline triggers and metadata management.
 
 The following figure is a schematic representation of an automated ML pipeline for CT.
-![](https://github.com/praj2408/ETE-Protect/blob/main/images/ML%20pipeline%20automation.jpg)
+![](/Users/patelrudra/Downloads/Consignment-Pricing-using-MLOps-DVC-main/images/ML pipeline automation.jpg)
 
 ## MLOps Level 2: CI/CD pipeline automation
 For a rapid and reliable update of the pipelines in production, you need a robust automated CI/CD system. This automated CI/CD system lets your data scientists rapidly explore new ideas around feature engineering, model architecture, and hyperparameters. They can implement these ideas and automatically build, test, and deploy the new pipeline components to the target environment.
 
 The following diagram shows the implementation of the ML pipeline using CI/CD, which has the characteristics of the automated ML pipelines setup plus the automated CI/CD routines.
-![](https://github.com/praj2408/ETE-Protect/blob/main/images/cicd%20pipeline%20automation.jpg)
+![](/Users/patelrudra/Downloads/Consignment-Pricing-using-MLOps-DVC-main/images/cicd pipeline automation.jpg)
 
 ## Model information
 Experiments:
@@ -118,7 +115,7 @@ Streamlit is used to build a website<br>
 all the codes are given in app.py
 
 ## Contributions
-If you have any questions or suggestions regarding the project, please feel free to contact the project maintainer at [gmail](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)
+If you have any questions or suggestions regarding the project, please feel free to contact the project maintainer at [gmail](https://mail.google.com/mail/?view=cm&tf=0&to=patelrudra854@gmail.com)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
